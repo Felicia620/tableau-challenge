@@ -1,0 +1,22 @@
+Jersey City, New Jersey Citi Bike Analysis (October 2020)
+
+1. 30,086 trips were recorded.
+
+2. Most rides were recorded at 5pm and 6pm while the least rides were recorded at 3am. 5pm and 6pm are peak hours for commuting from work or school. The sun is still up and riders are visible to other drivers and bike riders. The temperature may be most comfortable for physical activity. At 3am, riders are generally asleep or perhaps they feel this is an unsafe time to ride in the dark and alone on the streets.
+
+3. Over two thirds of riders are subscribers. In a major city, residents are more likely to use bike-sharing than suburban or rural neighborhoods and feel it's worth subscribing to this service as they may use it regularly.
+
+4. Riders born in 1999 (aged 21) ride for an average of 12,770 seconds or over 3.5 hours at a time! This can be for a few resons. Perhaps at this age, riders are less likely to have their own cars, more physically active, or more likely to appreciate of sustainable alternatives to driving gas-powered cars.
+
+5. Sixty percent of riders indentify as male while 25 percent indentify as female.
+
+6. The top 10 start stations with the most trips recorded include Grove St PATH, Newport Pkwy, Newport PATH, Liberty Light Rail, Hamilton Park, Sip Ave, Marin Light Rail, JC Medical Center, Columbus Dr at Exchange Place, and Harborside. All of these locations are clustered together downtown, the geographic, commercial, historical, and cultural hub of Jersey City. This area is more densely populated with heavy traffic. 
+
+7. The bottom 10 start stations with the least trips recorded include Journal Square, 5 Corners Library, Riverview Park, Oakland Ave, Glenwood Ave, Christ Hospital, Dey St, Jackson Sqaure, Union St, and Leonard Gordon Park. These stations are all located just outside the downtown district where bike-sharing is least likely to be used. Notice these stations are much further from each other than the downtown locations. 
+
+8. The top 10 end stations include Grove St PATH, Newport Pkwy, Newport Path, Hamilton Park, Liberty Light Rail, Marin Light Rail, Sip Ave, JC Medical Center, Columbus Dr at Exchange Place, and Harborside. The top 10 and bottom 10 start stations are almost identical and exclusively downtown. This mean riders general start and end their trips within the downtown district and may also return the bikes to the same station.
+
+9. Again, the top or most frequently visited stations indicated by dark green markers are located downtown and the least visited stations indicated by dark red markers are located outside of the downtown district. 
+
+10. An overwhelming majority of riders identify as male and riders aged 21 are most likely to ride the longest. 
+
